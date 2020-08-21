@@ -25,8 +25,8 @@ Java-based program demonstrates usage of JSONObject and JSONArray class usage to
 Download Java version "1.8.0_241" from https://www.oracle.com/java/technologies/javase/8u241-relnotes.html
 Download Eclipse version 2020-03 (4.15.0) from https://www.eclipse.org/downloads/packages/release/2020-03
 Download json-simple-1.1.1.jar  from https://repo1.maven.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/
-Download the IntercomTakeHomeTest java package src/customer_invitation/Customer.java from this https://github.com/julietaGit/IntercomTakeHomeTest
-Download the customers.txt from this https://github.com/julietaGit/IntercomTakeHomeTest/blob/master/external_file/customers.txt The file was modified to have '[' from start of the file and ']' at the end of the file to comply to JSON format.
+Download the IntercomTakeHomeTest java package from this link https://github.com/julietaGit/IntercomTakeHomeTest/tree/master/src/customer_invitation
+Download the customers.txt from this link https://github.com/julietaGit/IntercomTakeHomeTest/blob/master/external_file/customers.txt The file was modified to have '[' from start of the file and ']' at the end of the file to comply to JSON format.
 
 ## Running the tests
 
